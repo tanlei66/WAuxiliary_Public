@@ -1,0 +1,25 @@
+name: 功能请求
+description: 功能请求
+labels: ["Feature"]
+title: "[功能请求] "
+body:
+  - type: input
+    attributes:
+      label: 微信版本
+      placeholder: "如: 8.0.45(2520)"
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: 功能描述
+      placeholder: "如: 可在当前设备登录另一台设备的微信号"
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: 你为什么需要此功能
+      placeholder: "如: 我为了方便在不同设备上使用同一微信号"
+    validations:
+      required: true
