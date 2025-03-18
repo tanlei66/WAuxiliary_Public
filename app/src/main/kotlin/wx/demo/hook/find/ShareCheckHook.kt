@@ -9,9 +9,6 @@ import me.hd.wauxv.hook.factory.toDexMethod
 import org.lsposed.lsparanoid.Obfuscate
 import org.luckypray.dexkit.DexKitBridge
 
-/**
- * Author: https://github.com/Keeperorowner
- */
 @Obfuscate
 @HookAnno
 @ViewAnno
