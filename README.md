@@ -1,4 +1,4 @@
-<p align="center">
+- [tanlei66](https://github.com/tanlei66)<p align="center">
     <a href="https://github.com/HdShare/WAuxiliary_Public">
         <img src="https://socialify.git.ci/HdShare/WAuxiliary_Public/image?description=1&font=Rokkitt&language=1&name=1&owner=1&theme=Auto" alt="socialify"/>
     </a>
